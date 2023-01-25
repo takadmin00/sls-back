@@ -10,7 +10,6 @@
     "cors": "^2.8.5",
     "debug": "~2.6.9",
     "express": "~4.16.1",
-    "mongoos": "^0.0.1-security",
     "mongoose": "^6.8.4",
     "morgan": "~1.9.1"
   }
