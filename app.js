@@ -1,3 +1,6 @@
+require("dotenv").config();
+require("./models/connexion");
+
 var express = require("express");
 var path = require("path");
 var cookieParser = require("cookie-parser");
